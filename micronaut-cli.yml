@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: gormservicespec
+---
+testFramework: spock
+sourceLanguage: groovy
